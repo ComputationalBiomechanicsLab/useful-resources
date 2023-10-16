@@ -3,3 +3,5 @@ The goal of this repository is to house useful (online) resources that students/
 Anyone can suggest new material to add, as long as it is related to work that is done in the [Computational Biomachanics Lab](https://www.tudelft.nl/3me/over/afdelingen/biomechanical-engineering/research/biomechatronics-human-machine-control/computational-biomechanics-lab) at TU Delft.
 
 Below you find a list of topics that are covered already:
+- [Multibody Dynamics](https://github.com/ComputationalBiomechanicsLab/useful-resources/tree/main/Multibody%20Dynamics)
+- [Optimization](https://github.com/ComputationalBiomechanicsLab/useful-resources/tree/main/Optimization)
